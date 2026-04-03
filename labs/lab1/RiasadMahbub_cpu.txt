@@ -1,0 +1,6 @@
+Platform:x86_64
+OS:posix
+Environment:/usr/bin/python3
+CPU:x86_64
+Memory: 12.674789428710938GB
+Username:root
